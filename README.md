@@ -1,2 +1,2 @@
 # TicTac
-![Image alt](https://github.com/don0043/TicTac/img/tictactoe.PNG)
+![](https://github.com/don0043/TicTac/blob/master/img/tictactoe.PNG)
