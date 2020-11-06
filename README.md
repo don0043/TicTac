@@ -13,3 +13,7 @@ Gameplay
 
 ![](https://github.com/don0043/TicTac/blob/master/img/o.PNG)
 
+
+If someone will place his sign in one line he will win
+
+![](https://github.com/don0043/TicTac/blob/master/img/win.PNG)
