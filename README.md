@@ -8,6 +8,8 @@ After changing of text you will know whose turn is first(now Xs turn)
 After Xs turn there will be Os turn
 ![](https://github.com/don0043/TicTac/blob/master/img/x.PNG)
 
+
 Gameplay
+
 ![](https://github.com/don0043/TicTac/blob/master/img/o.PNG)
 
